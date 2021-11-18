@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-11-18T14:08:27-08:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Adrianna Frick</title>
+  
+
+  
+    <subtitle>My technical portfolio of curriculum and instructional design, web design, and writing.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Gallimaufry</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Gallimaufry" />
+      <published>2019-12-31T00:00:00-08:00</published>
+      <updated>2019-12-31T00:00:00-08:00</updated>
+      <id>http://localhost:4000/gallimaufry</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development, Social Media" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Typeayogini</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Typeayogini" />
+      <published>2017-01-01T00:00:00-08:00</published>
+      <updated>2017-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/typeayogini</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Upamayoga</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Upamayoga" />
+      <published>2016-08-10T00:00:00-07:00</published>
+      <updated>2016-08-10T00:00:00-07:00</updated>
+      <id>http://localhost:4000/upamayoga</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Instructional Design, Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Typeayoga</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Typeayoga" />
+      <published>2015-01-01T00:00:00-08:00</published>
+      <updated>2015-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/typeayoga</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Clsahtml</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Clsahtml" />
+      <published>2006-05-01T00:00:00-07:00</published>
+      <updated>2006-05-01T00:00:00-07:00</updated>
+      <id>http://localhost:4000/CLSAhtml</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Ogpage</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Ogpage" />
+      <published>2002-01-01T00:00:00-08:00</published>
+      <updated>2002-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/OGpage</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
