@@ -1,11 +1,13 @@
 ---
 layout: default
-modal-id: 4444
+modal-id: 3
 date: 2015-01-01
 img: typeayoga.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2015
+client: Type A Yoga
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: After completing the facilities move, Type A Yoga relaunched their website to take advantage of newer technologies. This included moving web hosting from Host Gator to Bluehost, and creating a WordPress site that allowed more customers to access the schedule, products, and their membership from their smartphones. This also required integrations with Mindbody, a common CRM for yoga studios, and social media, including Facebook, Twitter, Google+, and even LinkedIn for employment.
+
+url: https://web.archive.org/web/20160324214418/http://new.typeayoga.com/
 ---
