@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2010-04-01
-img: Heald-Logo_transparent.png
+img: Heald.png
 alt: image-alt
 project-date: 2008-2010
 client: Heald College
