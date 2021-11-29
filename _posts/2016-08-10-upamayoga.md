@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2016-08-10
 img: upamayoga.png
 alt: image-alt
